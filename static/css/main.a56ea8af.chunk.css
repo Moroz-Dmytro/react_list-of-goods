@@ -1,0 +1,2 @@
+.App,.main{display:flex;flex-direction:column;align-items:center}.main__list{width:-webkit-min-content;width:min-content;padding:0}.main__item{margin-top:5px;padding:10px 40px;border:1px solid green;background-color:#32ad32;border-radius:10px;text-align:center;list-style:none;transition:all .3s}.main__item:hover{cursor:pointer;background-color:green}.main__buttons{display:flex;justify-content:space-evenly;width:500px}
+/*# sourceMappingURL=main.a56ea8af.chunk.css.map */
